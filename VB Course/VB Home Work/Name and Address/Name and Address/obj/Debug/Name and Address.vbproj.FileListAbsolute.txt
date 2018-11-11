@@ -1,0 +1,12 @@
+C:\Users\danie\Desktop\VB Course\VB Home Work\Name and Address\Name and Address\bin\Debug\Name and Address.exe.config
+C:\Users\danie\Desktop\VB Course\VB Home Work\Name and Address\Name and Address\bin\Debug\Name and Address.exe
+C:\Users\danie\Desktop\VB Course\VB Home Work\Name and Address\Name and Address\bin\Debug\Name and Address.pdb
+C:\Users\danie\Desktop\VB Course\VB Home Work\Name and Address\Name and Address\bin\Debug\Name and Address.xml
+C:\Users\danie\Desktop\VB Course\VB Home Work\Name and Address\Name and Address\obj\Debug\Name and Address.vbprojAssemblyReference.cache
+C:\Users\danie\Desktop\VB Course\VB Home Work\Name and Address\Name and Address\obj\Debug\Name_and_Address.NameAddress.resources
+C:\Users\danie\Desktop\VB Course\VB Home Work\Name and Address\Name and Address\obj\Debug\Name_and_Address.Resources.resources
+C:\Users\danie\Desktop\VB Course\VB Home Work\Name and Address\Name and Address\obj\Debug\Name and Address.vbproj.GenerateResource.cache
+C:\Users\danie\Desktop\VB Course\VB Home Work\Name and Address\Name and Address\obj\Debug\Name and Address.vbproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\VB Course\VB Home Work\Name and Address\Name and Address\obj\Debug\Name and Address.exe
+C:\Users\danie\Desktop\VB Course\VB Home Work\Name and Address\Name and Address\obj\Debug\Name and Address.xml
+C:\Users\danie\Desktop\VB Course\VB Home Work\Name and Address\Name and Address\obj\Debug\Name and Address.pdb

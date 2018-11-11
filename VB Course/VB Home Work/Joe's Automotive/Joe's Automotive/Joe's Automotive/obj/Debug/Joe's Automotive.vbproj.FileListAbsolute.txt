@@ -1,0 +1,12 @@
+C:\Users\danie\Desktop\VB Course\VB Home Work\Joe's Automotive\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.exe.config
+C:\Users\danie\Desktop\VB Course\VB Home Work\Joe's Automotive\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.exe
+C:\Users\danie\Desktop\VB Course\VB Home Work\Joe's Automotive\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.pdb
+C:\Users\danie\Desktop\VB Course\VB Home Work\Joe's Automotive\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.xml
+C:\Users\danie\Desktop\VB Course\VB Home Work\Joe's Automotive\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.vbprojAssemblyReference.cache
+C:\Users\danie\Desktop\VB Course\VB Home Work\Joe's Automotive\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Form1.resources
+C:\Users\danie\Desktop\VB Course\VB Home Work\Joe's Automotive\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Resources.resources
+C:\Users\danie\Desktop\VB Course\VB Home Work\Joe's Automotive\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.vbproj.GenerateResource.cache
+C:\Users\danie\Desktop\VB Course\VB Home Work\Joe's Automotive\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.vbproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\VB Course\VB Home Work\Joe's Automotive\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.exe
+C:\Users\danie\Desktop\VB Course\VB Home Work\Joe's Automotive\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.xml
+C:\Users\danie\Desktop\VB Course\VB Home Work\Joe's Automotive\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.pdb

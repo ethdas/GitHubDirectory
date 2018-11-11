@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\bin\Debug\Customer Accounts.exe.config
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\bin\Debug\Customer Accounts.exe
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\bin\Debug\Customer Accounts.pdb
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\bin\Debug\Customer Accounts.xml
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\obj\Debug\Customer Accounts.vbprojAssemblyReference.cache
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\obj\Debug\Customer_Accounts.About.resources
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\obj\Debug\Customer_Accounts.Add_New_Record.resources
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\obj\Debug\Customer_Accounts.Resources.resources
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\obj\Debug\Customer Accounts.vbproj.GenerateResource.cache
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\obj\Debug\Customer Accounts.vbproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\obj\Debug\Customer Accounts.exe
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\obj\Debug\Customer Accounts.xml
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\obj\Debug\Customer Accounts.pdb
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\obj\Debug\Customer_Accounts.Open.resources
+C:\Users\danie\Desktop\VB Course\Customer Accounts\Customer Accounts\obj\Debug\Customer_Accounts.frmMain.resources
