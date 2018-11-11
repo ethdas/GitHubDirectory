@@ -1,6 +1,0 @@
-Yono Uni,44,22,66,66,22,44
-Bonaka Lara,11,22,45,45,22,29
-Austina Funchi,11,11,23,23,54,24.4
-Marech Lestik,34,33,22,44,22,31
-Unegra Fulante,34,76,12,43,24,37.8
-Bernma helpiku,52,43,43,33,34,41
